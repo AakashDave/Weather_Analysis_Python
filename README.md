@@ -1,8 +1,8 @@
-#Weather Forecast Analysis
-##Introduction
+# Weather Forecast Analysis
+## Introduction
 This project involves an extensive analysis of weather data, using Python and the pandas library. The dataset consists of various meteorological parameters recorded over a span of time. The analysis aims to derive insights and patterns from the data to better understand weather conditions.
 
-#Dataset
+# Dataset
 The dataset used in this analysis includes the following columns:
 
 Date/Time: The date and time of the record.
