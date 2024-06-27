@@ -20,3 +20,8 @@ Visibility_km: Visibility in kilometers.
 Press_kPa: Atmospheric pressure in kilopascals. 
 
 Weather Condition: Description of the weather condition.
+
+# Installation
+To run the analysis, you'll need to have Python installed along with the following libraries:
+
+```pip install pandas numpy```
